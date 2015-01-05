@@ -1,0 +1,19 @@
+{
+  "name": "karma-jscs-preprocessor",
+  "version": "0.1.0",
+  "description": "Karma preprocessor to check code style using JSCS.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewie/karma-jscs-preprocessor"
+  },
+  "author": {
+    "name": "Erik Wienhold",
+    "url": "https://github.com/ewie"
+  },
+  "license": "AGPL-3.0",
+  "peerDependencies": {
+    "jscs": ">=1.9",
+    "karma": ">=0.12"
+  }
+}
